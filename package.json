@@ -2,7 +2,6 @@
   "name": "api-solid",
   "version": "1.0.0",
   "description": "GymPass style app",
-  "type": "module",
   "main": "index.js",
   "scripts": {
     "start:dev": "tsx watch src/server.ts",
